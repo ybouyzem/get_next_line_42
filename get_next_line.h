@@ -22,5 +22,4 @@ void	ft_strcpy(char *dst, char *src);
 void	ft_strcat(char *s1, char *s2);
 char	*ft_strjoin(char *start, char *buff);
 int		ft_check(char *str, int c);
-char	*ft_join(char *dest, char *s1, char *s2);
 #endif
